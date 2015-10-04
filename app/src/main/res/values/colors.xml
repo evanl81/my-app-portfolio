@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="bluegray" type="color">#455A64</item>
+    <item name="teal" type="color">#009688</item>
+    <item name="lightgray" type="color">#CFD8DC</item>
+    <item name="white" type="color">#FFFFFF</item>
+</resources>
